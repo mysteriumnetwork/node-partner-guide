@@ -19,7 +19,7 @@ export const App = () => {
       </p>
       <p>
         You can also find a simple visual aid{" "}
-        <A href="https://excalidraw.com/#json=PvGz1Ix-n65mkjPgt-h_f,-bn5TQuGMqVy5nlkEOX5hw">
+        <A href="https://excalidraw.com/#json=tqO0jgSxZA1cZgNpHTr7u,STQb0R1qGWOvViP0-lx2vQ">
           here
         </A>
         .
